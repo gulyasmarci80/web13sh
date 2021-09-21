@@ -1,0 +1,49 @@
+body{
+    background-color: #ddffdd;
+    color: #002200;
+    width: 70%;
+    margin: 20px auto;
+}
+img{
+    width: 100px;
+    float: right;
+}
+#nagy{
+    width: 389px ;
+    margin: 0px auto;
+    display: block;
+    float: none;
+}
+
+ul li{
+    margin-top: 20px;
+    font-weight: bold;
+}
+ul li ul li{  
+    margin-top: 0px;
+    font-weight: normal;
+    list-style-type: none;
+
+}
+ul li ul li:first-child{
+    margin-top: 20px;
+}
+p{
+    font-weight: bold;
+}
+#behuzas{
+    margin-left: 20px;
+    font-weight: normal;
+}
+h1{
+    text-align: center;
+}
+table{
+    width: 80%;
+
+}
+td{
+    background-image:url(csillag.png);
+    width: 100%;
+    height: 50px;
+}
