@@ -1,0 +1,38 @@
+body{
+    background-color: #E0E0E0 ;
+    color: #660000 ;
+    width: 500px ;
+    height: 600px ;
+font-family: Arial, Helvetica, sans-serif ;
+}
+#kicsi{
+width: 50px;
+    text-align: center;
+}
+#kozep{
+    width: 500px;
+    text-align: center;
+}
+table tr td{
+width:100px;
+}
+#kozepkep{
+    float: right;
+}
+h2{
+    text-align: center;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+#bal{
+    width: 40px;
+    float: left;
+}
+#jobb{
+    width: 40px;
+    float: right;
+}
+#bal2{
+    text-align: left;
+    margin-top: 50px;
+}

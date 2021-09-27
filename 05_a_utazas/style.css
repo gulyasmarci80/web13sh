@@ -1,0 +1,40 @@
+body{
+    width: 80%;
+    background-image: url("vilagterkep.jpg");
+    color: #00008B;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: sans-serif;
+    font-size: 14pt;
+}
+#cim{
+    text-align: center;
+    font-size: 60px;
+    margin-bottom: 0px;
+}
+#repulo{
+    width: 510px;
+}
+#akcio{
+    font-size: 36px;
+    text-align: center;
+}
+#tablazat{
+    margin-top: 0px;
+    width: 90%;
+    background-color: #C4F4FD;
+}
+p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#kep{
+    margin-top: 20px;
+    float: left;
+    width: 170px;
+}
+table tr td:nth-child(2){
+    text-align: right;
+}
