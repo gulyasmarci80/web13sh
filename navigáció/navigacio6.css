@@ -1,0 +1,21 @@
+ul {   
+    border-top: blue 1px solid;
+    list-style-type: none;   
+    margin: 0;   
+    padding: 0;   
+    overflow: hidden;   
+    background-color: rgb(172, 206, 226);
+color: blue;
+width: 470px; }  
+li {   
+    float: left; }  
+li a {   
+    display: block;   
+    color: blue;  
+    font-size:larger ; 
+    font
+    text-align: center;   
+    padding: 5px 5px;   
+    text-decoration: none; }  
+li a:hover {   
+    background-color: #111; }

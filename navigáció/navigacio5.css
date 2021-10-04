@@ -1,0 +1,22 @@
+ul {   
+    list-style-type: none;   
+    margin: 0;   
+    padding: 0;   
+    width: 200px;   
+    background-color: white;
+    border: 2px solid  rgb(103, 95, 175);
+    border-bottom: none;
+    }  
+li a {   
+    display: block;   
+    color: rgb(103, 95, 175);   
+    padding: 8px 16px;   
+    text-decoration: none; }  
+/* Change the link color on hover */ 
+li a:hover {   
+    background-color:   rgb(103, 95, 175);
+    color: white; } 
+      
+li a.active {   
+            background-color: rgb(103, 95, 175);   
+            color: white; }  
